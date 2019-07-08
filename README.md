@@ -4,7 +4,7 @@ currently using `x86 linux`
 also had some fun linking and scripting the `depend.od`
 it will compile all the libs the program requests
 #### Compile
-thanks to `makefile`s you can do alot of thing fast</br>
+thanks to `makefile`s you can do alot of things fast</br>
 `make build/x86/libs` will build all the libs</br>
 `make build/x86 lib=<libName>` will build the `<libName>` library</br>
 `make build/x86 program=<programName>` will build `<programName>` and its dependencies</br>
